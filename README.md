@@ -44,7 +44,7 @@
 
 # 4 - Citi 
 ```diff
-REJECTED
+- APPLICATION REJECTED
 ```
 - **Applied** - By Referral By Tushar Kumar Patni
 - **Role** - Java Developer
