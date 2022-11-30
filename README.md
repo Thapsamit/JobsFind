@@ -43,6 +43,9 @@
 
 
 # 4 - Citi 
+```diff
+REJECTED
+```
 - **Applied** - By Referral By Tushar Kumar Patni
 - **Role** - Java Developer
 - **Location** - Gurugram
@@ -71,6 +74,18 @@
 - **Location** - Gurugram
 - **Role Expectation**:-
 
+# 8 Thermo Fisher scientific
+- **Applied** - By Referral of Supreeth
+- **Role** - Software Engineer - Intern 
+- **Location** - Remote/Location - US
+- **About**
+  - World leader in serving Science
+  - Revenue of 40 million dollar
+  - Their Mission is to make the world a cleaner, healthier, safer for their customer
+  - They serve customers for life sciences research, solving complex analytical challenges, increasing productivity in their laboratories, improving patient health through diagnostics or the development and manufacture of life-changing therapies.
+  - They have values focusing in 4i that is innovation, integrity, intensity, involvement that makes their culture and every colleague is a part of it.
+  
+
 # Applied without Referral
 
 # 7 - SquareBoat
@@ -90,12 +105,16 @@
 - **Role** - Associate Software Role
 - **Location** - Gurugram
 - **Role Expectation**:-
+  - Siemens energy is the global leader in energy business.
+  - They want to meet the growing demand of energy while conserving the nature and decarbonize the global energy system.
+  - Their innovative technology, ambitious strategy and experience are all keys to their efforts 
+  - They Have missions to empower our customers to meet the growing global demand for energy while transitioning to a more sustainable world.
+  - They are committed to making sustainable, reliable and affordable energy possible. This is how we shape the "energy of tomorrow".
+  - They offers their customers:-
+    - Low or zero emission power generation gas services and siemens gamesa renewable energy
+    - Transport and storage of energy using grid technologies.
+    - Reducing greenhouse gases and energy consumption in industries.
 
-# 9 - Siemens Energy
-- **Applied** - Direct Apply
-- **Role** - Associate Software Role
-- **Location** - Gurugram
-- **Role Expectation**:-
 
 
 # 10 - Tech Alchemy
@@ -112,6 +131,9 @@
 - **Role** - Associate Software Role
 - **Location** - Gurugram
 - **Role Expectation**:-
+  
+- **About:-**
+  
 
 
 
