@@ -170,3 +170,29 @@
 - **Role** - Associate Software Role
 - **Location** - Gurugram
 - **Role Expectation**:-
+
+
+- # 16 - IDEMIA
+- **Applied** - Direct to recruiter(Ajab Parmar)
+- **Role** - Associate Software Role
+- **Location** - Noida, India
+- **Role Expectation**:-
+  - Theoretical know-how of software engineering disciplines (e.g. Test Driven Development, Configuration Management and Coding Practices)
+  - Soft skills Required like team player,Problem solving and logical ability, Quick Learner.
+- **About** -
+  - Pierre Barrial (CEO).
+  - Headquarters in France.
+  - They are the leader identity technologies.
+  - Their mission is to unlock the world and make it safer for citizens and consumers to perform daily-critical activities such as pay, connect, and travel – in the physical as well as digital worlds.
+  -  our identity is already at the heart of most of our daily interactions. Any time we send a text message, browse the internet with a mobile phone, pay in-store or online, take public transportation, go to the doctor, or travel, we use our identity credentials to prove who we are. And if today, we are already using our identities multiple times per day to interact, in the future, it will be constant – even countless.
+  - To prepare for this, we need to ensure that every industry is well equipped to offer truly frictionless authentication journeys that offer security and reliability every step of the way.
+  - Cybersecurity, biometrics, large scale distributed systems and Cloud computing, analytics and smart devices are at the core of both our physical products and our software and systems.
+  - secured connectivity, secured payments and secured identity management.
+  
+  
+  
+  
+  
+  
+  
+
