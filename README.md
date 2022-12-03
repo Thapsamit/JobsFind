@@ -85,22 +85,31 @@
   - They serve customers for life sciences research, solving complex analytical challenges, increasing productivity in their laboratories, improving patient health through diagnostics or the development and manufacture of life-changing therapies.
   - They have values focusing in 4i that is innovation, integrity, intensity, involvement that makes their culture and every colleague is a part of it.
   
+  
+ 
+#  SHL 
+- **Applied** - By Referral of Shreyansh Gupta
+- **Role** - Software Engineer - Intern 
+- **Location** - Remote/Location - US
+- **Role Expectation**:-
+- **About**:-
+
 
 # Applied without Referral
 
-# 7 - SquareBoat
+# 9 - SquareBoat
 - **Applied** - Direct Apply
 - **Role** - Associate Software Role
 - **Location** - Gurugram
 - **Role Expectation**:-
 
-# 8 - Merkle Sokrati
+# 10 - Merkle Sokrati
 - **Applied** - Direct Apply
 - **Role** - Associate Software Role
 - **Location** - Gurugram
 - **Role Expectation**:-
 
-# 9 - Siemens Energy
+# 11 - Siemens Energy
 - **Applied** - Direct Apply
 - **Role** - Associate Software Role
 - **Location** - Gurugram
@@ -117,7 +126,7 @@
 
 
 
-# 10 - Tech Alchemy
+# 12 - Tech Alchemy
 - **Applied** - Direct Apply
 - **Role** - React.js developer
 - **Location** - Gurugram
@@ -126,7 +135,7 @@
 
 
 
-# 11 - Mindbody+classpluss
+# 13 - Mindbody+classpluss
 - **Applied** - Direct Apply
 - **Role** - Associate Software Role
 - **Location** - Gurugram
@@ -139,7 +148,7 @@
 
 
 
-# 12 -  Toddle 
+# 14 -  Toddle 
 - **Applied** - Direct Apply
 - **Role** - Associate Software Engineer - frontend
 - **Location** - Gurugram
@@ -150,29 +159,24 @@
 
 
 
-# 13 - Siemens Energy
-- **Applied** - Direct Apply
-- **Role** - Associate Software Role
-- **Location** - Gurugram
-- **Role Expectation**:-
 
 
 
-# 14 - capitsign
+# 15 - capitsign
 - **Applied** - Direct Apply
 - **Role** - SWE - Intern
 - **Location** - Gurugram
 - **Role Expectation**:-
 
 
-# 15 - okta core values
+# 16 - okta core values
 - **Applied** - Direct Apply
 - **Role** - Associate Software Role
 - **Location** - Gurugram
 - **Role Expectation**:-
 
 
-- # 16 - IDEMIA
+- # 17 - IDEMIA
 - **Applied** - Direct to recruiter(Ajab Parmar)
 - **Role** - Associate Software Role
 - **Location** - Noida, India
@@ -189,8 +193,24 @@
   - Cybersecurity, biometrics, large scale distributed systems and Cloud computing, analytics and smart devices are at the core of both our physical products and our software and systems.
   - secured connectivity, secured payments and secured identity management.
   
+- # Bloomberg
+- **Applied** - Direct to recruiter(Ajab Parmar)
+- **Role** - Associate Software Role
+- **Location** - Noida, India
+- **Role Expectation**:-
   
   
+- # Locus 
+- **Applied** - Direct to recruiter(Ajab Parmar)
+- **Role** - Associate Software Role
+- **Location** - Noida, India
+- **Role Expectation**:-
+  
+- # Arista networks
+- **Applied** - Direct to recruiter(Ajab Parmar)
+- **Role** - Associate Software Role
+- **Location** - Noida, India
+- **Role Expectation**:-  
   
   
   
